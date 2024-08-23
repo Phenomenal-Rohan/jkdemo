@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #######################################################################
- #Author       - Sathwik
- #Date         - 24-06-24
+ #Author       - Rohan
+ #Date         - 24-08-24
  #Description  - This shellscript shows resources running in AWS
  #Version      - v1
 #######################################################################
